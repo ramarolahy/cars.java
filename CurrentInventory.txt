@@ -1,9 +1,0 @@
-		* * * AWESOME CARSHOP INVENTORY SYSTEM * * *
-
-Dealership Name: .................    Inventory Date: .. / .. / ..  
-
-  Inv	Make         	Model        	Color               	Year   	Mileage  
-------	-------------	-------------	--------------------	-------	---------	
-    1	Nissan       	Versa        	Silver              	2008   	    22000
-    2	Toyota       	Camry        	Dark Grey           	2010   	    34000
-------	-------------	-------------	--------------------	-------	---------	
